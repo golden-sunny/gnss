@@ -1,0 +1,219 @@
+nav file : D:\GNSSLAB\gnssLab-2.4\data\BRDC00IGS_R_20250010000_01D_MN.rnx
+sp3 file : D:\GNSSLAB\gnssLab-2.4\data\WUM0MGXFIN_20250010000_01D_05M_ORB.SP3
+target   : 2025   1            300 GPS 
+
+Satellite C01 selected ephemeris age: 286.000 s
+Broadcast epoch   : 2025/ 1/ 1  0: 0: 0 BDT
+Clock epoch       : 2025/ 1/ 1  0: 0: 0 BDT
+Computed branch   : GEO
+
+============================================================
+Table 4-8 C01 satellite position intermediate values (C01)  [GEO]
+============================================================
+Target GPS time : 2025   1            300 GPS 
+Target BDT time : 2025/ 1/ 1  0: 4:46 BDT
+Branch          : special GEO rotation
+------------------------------------------------------------
+  A = (sqrt_A)^2
+    actual : 42166175.565771
+    theory : 42166175.565771
+  n0 = sqrt(mu / A^3)
+    actual : 0.000073
+    theory : 0.000073
+  tk = t - toe
+    actual : 286.000000
+    theory : 286.000000
+  n = n0 + delta_n
+    actual : 0.000073
+    theory : 0.000073
+  Mk = M0 + n*tk
+    actual : -0.682851
+    theory : -0.682851
+  Ek = Mk + e*sin(Ek)
+    actual : -0.683150
+    theory : -0.683150
+  vk = atan2(sqrt(1-e^2)sinEk, cosEk-e)
+    actual : -0.683449
+    theory : -0.683449
+  Phi_k = vk + omega
+    actual : -0.869285
+    theory : -0.869285
+  delta_u_k = Cuc*cos(2Phi_k) + Cus*sin(2Phi_k)
+    actual : -0.000028
+    theory : -0.000028
+  delta_r_k = Crc*cos(2Phi_k) + Crs*sin(2Phi_k)
+    actual : 157.336631
+    theory : 157.336631
+  delta_i_k = Cic*cos(2Phi_k) + Cis*sin(2Phi_k)
+    actual : 0.000000
+    theory : 0.000000
+  u_k = Phi_k + delta_u_k
+    actual : -0.869314
+    theory : -0.869314
+  r_k = A(1 - e*cosEk) + delta_r_k
+    actual : 42150835.964427
+    theory : 42150835.964427
+  i_k = i0 + IDOT*tk + delta_i_k
+    actual : 0.058372
+    theory : 0.058372
+  x_k = r_k*cos(u_k)
+    actual : 27202087.124328
+    theory : 27202087.124328
+  y_k = r_k*sin(u_k)
+    actual : -32198438.294124
+    theory : -32198438.294124
+  Omega_k = OMEGA_0 + OMEGA_DOT*tk - omega_e*Toe
+    actual : -21.721757
+    theory : -21.721757
+  Final ECEF position/velocity from NavEphBDS::svXvt
+    x actual : (-34271596.501952223480, 24537957.549022790045, 198204.514905655989)
+    x theory : (34271596.501951999962, 24537957.549022998661, 198204.514905999997)
+    v actual : (0.285610977859, -0.543725487519, -105.591799468682)
+    v theory : (0.300914383807, -0.522354726871, -105.591181578189)
+
+Table 4-9 C01 satellite velocity intermediate values
+------------------------------------------------------------
+  Mdot = n
+    actual : 0.000072916034
+    theory : 0.000072916034
+  Edot = Mdot / (1 - e*cosEk)
+    actual : 0.000072942842
+    theory : 0.000072942842
+  vdot = sqrt(1-e^2)*Edot / (1 - e*cosEk)
+    actual : 0.000072969652
+    theory : 0.000072969028
+  Phidot = vdot
+    actual : 0.000072969652
+    theory : 0.000072969028
+  rdot = A*e*sinEk*Edot + 2(...) * Phidot
+    actual : -1.045270574222
+    theory : -1.045269503484
+  udot = vdot + 2*Phidot*(Cus*cos2Phi - Cuc*sin2Phi)
+    actual : 0.000072968933
+    theory : 0.000072968309
+  xdot = rdot*cos(u_k) - r_k*udot*sin(u_k)
+    actual : 2348.811116359435
+    theory : -1736.518640042023
+  ydot = rdot*sin(u_k) + r_k*udot*cos(u_k)
+    actual : 1985.705737348747
+    theory : -2535.962486858447
+  didot = IDOT + 2*Phidot*(Cis*cos2Phi - Cic*sin2Phi)
+    actual : -0.000000000965
+    theory : 0.000000000000
+  Omega_dot_k = OMEGA_DOT
+    actual : 0.000000000966
+    theory : 0.000000000000
+
+SP3 comparison
+  precise pos : (-34271591.427, 24537965.364, 198202.681)
+  precise vel : (0.286, -0.544, -105.592)
+  diff pos    : (-5.075, -7.815, 1.834)
+  diff vel    : (0.000, 0.000, 0.000)
+
+Satellite C06 selected ephemeris age: 286.000 s
+Broadcast epoch   : 2025/ 1/ 1  0: 0: 0 BDT
+Clock epoch       : 2025/ 1/ 1  0: 0: 0 BDT
+Computed branch   : IGSO/MEO
+
+============================================================
+Table 4-10 C06 satellite position intermediate values (C06)  [IGSO/MEO]
+============================================================
+Target GPS time : 2025   1            300 GPS 
+Target BDT time : 2025/ 1/ 1  0: 4:46 BDT
+Branch          : IGSO/MEO
+------------------------------------------------------------
+  A = (sqrt_A)^2
+    actual : 42163633.240530
+    theory : 42163633.240530
+  n0 = sqrt(mu / A^3)
+    actual : 0.000073
+    theory : 0.000073
+  tk = t - toe
+    actual : 286.000000
+    theory : 286.000000
+  n = n0 + delta_n
+    actual : 0.000073
+    theory : 0.000073
+  Mk = M0 + n*tk
+    actual : -2.833020
+    theory : -2.833020
+  Ek = Mk + e*sin(Ek)
+    actual : -2.834316
+    theory : -2.834316
+  vk = atan2(sqrt(1-e^2)sinEk, cosEk-e)
+    actual : -2.835610
+    theory : -2.835610
+  Phi_k = vk + omega
+    actual : -5.554115
+    theory : -5.554115
+  delta_u_k = Cuc*cos(2Phi_k) + Cus*sin(2Phi_k)
+    actual : 0.000011
+    theory : 0.000011
+  delta_r_k = Crc*cos(2Phi_k) + Crs*sin(2Phi_k)
+    actual : 16.729332
+    theory : 16.729332
+  delta_i_k = Cic*cos(2Phi_k) + Cis*sin(2Phi_k)
+    actual : -0.000000
+    theory : 0.000000
+  u_k = Phi_k + delta_u_k
+    actual : -5.554104
+    theory : -5.554104
+  r_k = A(1 - e*cosEk) + delta_r_k
+    actual : 42335915.623071
+    theory : 42335915.623071
+  i_k = i0 + IDOT*tk + delta_i_k
+    actual : 0.946266
+    theory : 0.946266
+  x_k = r_k*cos(u_k)
+    actual : 31573575.262918
+    theory : 31573575.262918
+  y_k = r_k*sin(u_k)
+    actual : 28203529.863487
+    theory : 28203529.863487
+  Omega_k = OMEGA_0 + (OMEGA_DOT - omega_e)*tk - omega_e*Toe
+    actual : -17.703253
+    theory : -17.703253
+  Final ECEF position/velocity from NavEphBDS::svXvt
+    x actual : (-2023579.797096138820, 35563336.759908869863, 22879771.741646949202)
+    x theory : (-2023579.797096000053, 35563336.759908996522, 22879771.741647001356)
+    v actual : (536.571523512611, -1164.732394366233, 1850.547417446135)
+    v theory : (536.614000000000, -1164.705000000000, 1850.508000000000)
+
+Table 4-11 C06 satellite velocity intermediate values
+------------------------------------------------------------
+  Mdot = n
+    actual : 0.000072924013
+    theory : 0.000072924013
+  Edot = Mdot / (1 - e*cosEk)
+    actual : 0.000072627283
+    theory : 0.000072627255
+  vdot = sqrt(1-e^2)*Edot / (1 - e*cosEk)
+    actual : 0.000072331097
+    theory : 0.000072329589
+  Phidot = vdot
+    actual : 0.000072331097
+    theory : 0.000072329589
+  rdot = A*e*sinEk*Edot + 2(...) * Phidot
+    actual : -3.955581448331
+    theory : -3.955580183010
+  udot = vdot + 2*Phidot*(Cus*cos2Phi - Cuc*sin2Phi)
+    actual : 0.000072331123
+    theory : 0.000072329616
+  xdot = rdot*cos(u_k) - r_k*udot*sin(u_k)
+    actual : -2042.943020984831
+    theory : -2042.900493825388
+  ydot = rdot*sin(u_k) + r_k*udot*cos(u_k)
+    actual : 2281.117022581349
+    theory : 2281.069415742512
+  didot = IDOT + 2*Phidot*(Cis*cos2Phi - Cic*sin2Phi)
+    actual : 0.000000001145
+    theory : 0.000000011450
+  Omega_dot_k = OMEGA_DOT - omega_e
+    actual : -0.000072922848
+    theory : -0.000072922848
+
+SP3 comparison
+  precise pos : (-2023578.543, 35563337.717, 22879771.935)
+  precise vel : (536.572, -1164.732, 1850.547)
+  diff pos    : (-1.254, -0.957, -0.193)
+  diff vel    : (-0.000, 0.000, -0.000)

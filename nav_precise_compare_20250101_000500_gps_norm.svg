@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="700" viewBox="0 0 1400 700">
+<rect width="100%" height="100%" fill="white"/>
+<text x="700" y="30" text-anchor="middle" font-size="22" font-family="Arial">GPS broadcast vs precise norm difference</text>
+<text x="24" y="350" text-anchor="middle" font-size="14" font-family="Arial" transform="rotate(-90 24 350)">Norm difference (m or m/s)</text>
+<line x1="90" y1="60" x2="1370" y2="60" stroke="#e6e6e6"/>
+<text x="82" y="64" text-anchor="end" font-size="11" font-family="Arial">2.933</text>
+<line x1="90.000" y1="164.000" x2="1370.000" y2="164.000" stroke="#e6e6e6"/>
+<text x="82.000" y="168.000" text-anchor="end" font-size="11" font-family="Arial">2.285</text>
+<line x1="90.000" y1="268.000" x2="1370.000" y2="268.000" stroke="#e6e6e6"/>
+<text x="82.000" y="272.000" text-anchor="end" font-size="11" font-family="Arial">1.636</text>
+<line x1="90.000" y1="372.000" x2="1370.000" y2="372.000" stroke="#e6e6e6"/>
+<text x="82.000" y="376.000" text-anchor="end" font-size="11" font-family="Arial">0.987</text>
+<line x1="90.000" y1="476.000" x2="1370.000" y2="476.000" stroke="#e6e6e6"/>
+<text x="82.000" y="480.000" text-anchor="end" font-size="11" font-family="Arial">0.339</text>
+<line x1="90.000" y1="580.000" x2="1370.000" y2="580.000" stroke="#e6e6e6"/>
+<text x="82.000" y="584.000" text-anchor="end" font-size="11" font-family="Arial">-0.310</text>
+<line x1="90.000" y1="580.000" x2="1370.000" y2="580.000" stroke="#000"/>
+<line x1="90.000" y1="60.000" x2="90.000" y2="580.000" stroke="#000"/>
+<line x1="90.000" y1="530.309" x2="1370.000" y2="530.309" stroke="#999" stroke-dasharray="4,4"/>
+<line x1="90.000" y1="580.000" x2="90.000" y2="585.000" stroke="#000"/>
+<text x="90.000" y="600.000" text-anchor="middle" font-size="10" font-family="Arial">0</text>
+<text x="90.000" y="618.000" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(35 90.000 618.000)">G02</text>
+<line x1="134.138" y1="580.000" x2="134.138" y2="585.000" stroke="#000"/>
+<line x1="178.276" y1="580.000" x2="178.276" y2="585.000" stroke="#000"/>
+<text x="178.276" y="600.000" text-anchor="middle" font-size="10" font-family="Arial">2</text>
+<text x="178.276" y="618.000" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(35 178.276 618.000)">G04</text>
+<line x1="222.414" y1="580.000" x2="222.414" y2="585.000" stroke="#000"/>
+<line x1="266.552" y1="580.000" x2="266.552" y2="585.000" stroke="#000"/>
+<text x="266.552" y="600.000" text-anchor="middle" font-size="10" font-family="Arial">4</text>
+<text x="266.552" y="618.000" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(35 266.552 618.000)">G06</text>
+<line x1="310.690" y1="580.000" x2="310.690" y2="585.000" stroke="#000"/>
+<line x1="354.828" y1="580.000" x2="354.828" y2="585.000" stroke="#000"/>
+<text x="354.828" y="600.000" text-anchor="middle" font-size="10" font-family="Arial">6</text>
+<text x="354.828" y="618.000" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(35 354.828 618.000)">G08</text>
+<line x1="398.966" y1="580.000" x2="398.966" y2="585.000" stroke="#000"/>
+<line x1="443.103" y1="580.000" x2="443.103" y2="585.000" stroke="#000"/>
+<text x="443.103" y="600.000" text-anchor="middle" font-size="10" font-family="Arial">8</text>
+<text x="443.103" y="618.000" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(35 443.103 618.000)">G10</text>
+<line x1="487.241" y1="580.000" x2="487.241" y2="585.000" stroke="#000"/>
+<line x1="531.379" y1="580.000" x2="531.379" y2="585.000" stroke="#000"/>
+<text x="531.379" y="600.000" text-anchor="middle" font-size="10" font-family="Arial">10</text>
+<text x="531.379" y="618.000" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(35 531.379 618.000)">G12</text>
+<line x1="575.517" y1="580.000" x2="575.517" y2="585.000" stroke="#000"/>
+<line x1="619.655" y1="580.000" x2="619.655" y2="585.000" stroke="#000"/>
+<text x="619.655" y="600.000" text-anchor="middle" font-size="10" font-family="Arial">12</text>
+<text x="619.655" y="618.000" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(35 619.655 618.000)">G14</text>
+<line x1="663.793" y1="580.000" x2="663.793" y2="585.000" stroke="#000"/>
+<line x1="707.931" y1="580.000" x2="707.931" y2="585.000" stroke="#000"/>
+<text x="707.931" y="600.000" text-anchor="middle" font-size="10" font-family="Arial">14</text>
+<text x="707.931" y="618.000" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(35 707.931 618.000)">G16</text>
+<line x1="752.069" y1="580.000" x2="752.069" y2="585.000" stroke="#000"/>
+<line x1="796.207" y1="580.000" x2="796.207" y2="585.000" stroke="#000"/>
+<text x="796.207" y="600.000" text-anchor="middle" font-size="10" font-family="Arial">16</text>
+<text x="796.207" y="618.000" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(35 796.207 618.000)">G18</text>
+<line x1="840.345" y1="580.000" x2="840.345" y2="585.000" stroke="#000"/>
+<line x1="884.483" y1="580.000" x2="884.483" y2="585.000" stroke="#000"/>
+<text x="884.483" y="600.000" text-anchor="middle" font-size="10" font-family="Arial">18</text>
+<text x="884.483" y="618.000" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(35 884.483 618.000)">G20</text>
+<line x1="928.621" y1="580.000" x2="928.621" y2="585.000" stroke="#000"/>
+<line x1="972.759" y1="580.000" x2="972.759" y2="585.000" stroke="#000"/>
+<text x="972.759" y="600.000" text-anchor="middle" font-size="10" font-family="Arial">20</text>
+<text x="972.759" y="618.000" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(35 972.759 618.000)">G23</text>
+<line x1="1016.897" y1="580.000" x2="1016.897" y2="585.000" stroke="#000"/>
+<line x1="1061.034" y1="580.000" x2="1061.034" y2="585.000" stroke="#000"/>
+<text x="1061.034" y="600.000" text-anchor="middle" font-size="10" font-family="Arial">22</text>
+<text x="1061.034" y="618.000" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(35 1061.034 618.000)">G25</text>
+<line x1="1105.172" y1="580.000" x2="1105.172" y2="585.000" stroke="#000"/>
+<line x1="1149.310" y1="580.000" x2="1149.310" y2="585.000" stroke="#000"/>
+<text x="1149.310" y="600.000" text-anchor="middle" font-size="10" font-family="Arial">24</text>
+<text x="1149.310" y="618.000" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(35 1149.310 618.000)">G27</text>
+<line x1="1193.448" y1="580.000" x2="1193.448" y2="585.000" stroke="#000"/>
+<line x1="1237.586" y1="580.000" x2="1237.586" y2="585.000" stroke="#000"/>
+<text x="1237.586" y="600.000" text-anchor="middle" font-size="10" font-family="Arial">26</text>
+<text x="1237.586" y="618.000" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(35 1237.586 618.000)">G29</text>
+<line x1="1281.724" y1="580.000" x2="1281.724" y2="585.000" stroke="#000"/>
+<line x1="1325.862" y1="580.000" x2="1325.862" y2="585.000" stroke="#000"/>
+<text x="1325.862" y="600.000" text-anchor="middle" font-size="10" font-family="Arial">28</text>
+<text x="1325.862" y="618.000" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(35 1325.862 618.000)">G31</text>
+<line x1="1370.000" y1="580.000" x2="1370.000" y2="585.000" stroke="#000"/>
+<text x="1370.000" y="600.000" text-anchor="middle" font-size="10" font-family="Arial">29</text>
+<text x="1370.000" y="618.000" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(35 1370.000 618.000)">G32</text>
+<rect x="980" y="20" width="340" height="70" fill="white" stroke="#c8c8c8"/>
+<polyline fill="none" stroke="#d62728" stroke-width="2.2" points="90.000,377.049 134.138,287.458 178.276,212.982 222.414,341.689 266.552,304.472 310.690,308.678 354.828,172.647 398.966,324.948 443.103,249.780 487.241,134.121 531.379,237.270 575.517,231.427 619.655,197.129 663.793,405.535 707.931,221.660 752.069,296.010 796.207,110.323 840.345,425.549 884.483,213.244 928.621,274.560 972.759,184.752 1016.897,257.615 1061.034,237.861 1105.172,226.107 1149.310,303.151 1193.448,202.673 1237.586,327.981 1281.724,245.334 1325.862,258.463 1370.000,311.382 "/>
+<circle cx="90.000" cy="377.049" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<circle cx="134.138" cy="287.458" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<circle cx="178.276" cy="212.982" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<circle cx="222.414" cy="341.689" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<circle cx="266.552" cy="304.472" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<circle cx="310.690" cy="308.678" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<circle cx="354.828" cy="172.647" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<circle cx="398.966" cy="324.948" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<circle cx="443.103" cy="249.780" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<circle cx="487.241" cy="134.121" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<circle cx="531.379" cy="237.270" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<circle cx="575.517" cy="231.427" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<circle cx="619.655" cy="197.129" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<circle cx="663.793" cy="405.535" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<circle cx="707.931" cy="221.660" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<circle cx="752.069" cy="296.010" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<circle cx="796.207" cy="110.323" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<circle cx="840.345" cy="425.549" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<circle cx="884.483" cy="213.244" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<circle cx="928.621" cy="274.560" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<circle cx="972.759" cy="184.752" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<circle cx="1016.897" cy="257.615" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<circle cx="1061.034" cy="237.861" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<circle cx="1105.172" cy="226.107" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<circle cx="1149.310" cy="303.151" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<circle cx="1193.448" cy="202.673" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<circle cx="1237.586" cy="327.981" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<circle cx="1281.724" cy="245.334" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<circle cx="1325.862" cy="258.463" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<circle cx="1370.000" cy="311.382" r="3.2" fill="#d62728" stroke="white" stroke-width="1"/>
+<line x1="1000" y1="44.000" x2="1020" y2="44.000" stroke="#d62728" stroke-width="3"/>
+<text x="1028" y="48.000" font-size="12" font-family="Arial">pos_norm</text>
+<polyline fill="none" stroke="#1f77b4" stroke-width="2.2" points="90.000,525.911 134.138,517.837 178.276,504.832 222.414,529.677 266.552,495.977 310.690,517.126 354.828,503.338 398.966,507.865 443.103,502.727 487.241,499.989 531.379,512.503 575.517,514.074 619.655,500.271 663.793,506.263 707.931,520.746 752.069,522.145 796.207,517.258 840.345,514.634 884.483,516.350 928.621,518.816 972.759,495.826 1016.897,512.252 1061.034,499.557 1105.172,509.025 1149.310,507.175 1193.448,502.205 1237.586,518.203 1281.724,504.300 1325.862,498.170 1370.000,522.675 "/>
+<circle cx="90.000" cy="525.911" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<circle cx="134.138" cy="517.837" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<circle cx="178.276" cy="504.832" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<circle cx="222.414" cy="529.677" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<circle cx="266.552" cy="495.977" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<circle cx="310.690" cy="517.126" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<circle cx="354.828" cy="503.338" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<circle cx="398.966" cy="507.865" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<circle cx="443.103" cy="502.727" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<circle cx="487.241" cy="499.989" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<circle cx="531.379" cy="512.503" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<circle cx="575.517" cy="514.074" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<circle cx="619.655" cy="500.271" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<circle cx="663.793" cy="506.263" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<circle cx="707.931" cy="520.746" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<circle cx="752.069" cy="522.145" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<circle cx="796.207" cy="517.258" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<circle cx="840.345" cy="514.634" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<circle cx="884.483" cy="516.350" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<circle cx="928.621" cy="518.816" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<circle cx="972.759" cy="495.826" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<circle cx="1016.897" cy="512.252" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<circle cx="1061.034" cy="499.557" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<circle cx="1105.172" cy="509.025" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<circle cx="1149.310" cy="507.175" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<circle cx="1193.448" cy="502.205" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<circle cx="1237.586" cy="518.203" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<circle cx="1281.724" cy="504.300" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<circle cx="1325.862" cy="498.170" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<circle cx="1370.000" cy="522.675" r="3.2" fill="#1f77b4" stroke="white" stroke-width="1"/>
+<line x1="1000" y1="66.000" x2="1020" y2="66.000" stroke="#1f77b4" stroke-width="3"/>
+<text x="1028" y="70.000" font-size="12" font-family="Arial">vel_norm</text>
+</svg>

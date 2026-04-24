@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2025.3.3\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\parse_config.dir/objects.a
+D:\softwareaddress\CMAKE\x86_64-15.2.0-release-win32-seh-ucrt-rt_v13-rev1\mingw64\bin\ar.exe qc CMakeFiles\parse_config.dir/objects.a @CMakeFiles\parse_config.dir\objects1.rsp
+D:\softwareaddress\CMAKE\x86_64-15.2.0-release-win32-seh-ucrt-rt_v13-rev1\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\parse_config.dir/objects.a -Wl,--no-whole-archive -o parse_config.exe -Wl,--out-implib,libparse_config.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\parse_config.dir\linkLibs.rsp

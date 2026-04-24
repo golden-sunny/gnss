@@ -1,0 +1,482 @@
+[
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -Dgnss_EXPORTS -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\gnss.dir\\lib\\ARLambda.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\lib\\ARLambda.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/lib/ARLambda.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/gnss.dir/lib/ARLambda.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -Dgnss_EXPORTS -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\gnss.dir\\lib\\CSDetector.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\lib\\CSDetector.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/lib/CSDetector.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/gnss.dir/lib/CSDetector.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -Dgnss_EXPORTS -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\gnss.dir\\lib\\ConfigReader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\lib\\ConfigReader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/lib/ConfigReader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/gnss.dir/lib/ConfigReader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -Dgnss_EXPORTS -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\gnss.dir\\lib\\GnssFunc.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\lib\\GnssFunc.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/lib/GnssFunc.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/gnss.dir/lib/GnssFunc.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -Dgnss_EXPORTS -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\gnss.dir\\lib\\GnssStruct.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\lib\\GnssStruct.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/lib/GnssStruct.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/gnss.dir/lib/GnssStruct.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -Dgnss_EXPORTS -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\gnss.dir\\lib\\KalmanFilter.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\lib\\KalmanFilter.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/lib/KalmanFilter.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/gnss.dir/lib/KalmanFilter.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -Dgnss_EXPORTS -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\gnss.dir\\lib\\NavEphBDS.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\lib\\NavEphBDS.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/lib/NavEphBDS.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/gnss.dir/lib/NavEphBDS.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -Dgnss_EXPORTS -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\gnss.dir\\lib\\NavEphGPS.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\lib\\NavEphGPS.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/lib/NavEphGPS.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/gnss.dir/lib/NavEphGPS.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -Dgnss_EXPORTS -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\gnss.dir\\lib\\RinexNavStore.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\lib\\RinexNavStore.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/lib/RinexNavStore.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/gnss.dir/lib/RinexNavStore.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -Dgnss_EXPORTS -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\gnss.dir\\lib\\RinexObsReader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\lib\\RinexObsReader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/lib/RinexObsReader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/gnss.dir/lib/RinexObsReader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -Dgnss_EXPORTS -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\gnss.dir\\lib\\Rx3ClockReader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\lib\\Rx3ClockReader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/lib/Rx3ClockReader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/gnss.dir/lib/Rx3ClockReader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -Dgnss_EXPORTS -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\gnss.dir\\lib\\SP3Store.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\lib\\SP3Store.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/lib/SP3Store.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/gnss.dir/lib/SP3Store.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -Dgnss_EXPORTS -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\gnss.dir\\lib\\SPPIFCode.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\lib\\SPPIFCode.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/lib/SPPIFCode.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/gnss.dir/lib/SPPIFCode.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -Dgnss_EXPORTS -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\gnss.dir\\lib\\SPPUCCodePhase.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\lib\\SPPUCCodePhase.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/lib/SPPUCCodePhase.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/gnss.dir/lib/SPPUCCodePhase.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -Dgnss_EXPORTS -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\gnss.dir\\lib\\SolverKalman.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\lib\\SolverKalman.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/lib/SolverKalman.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/gnss.dir/lib/SolverKalman.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -Dgnss_EXPORTS -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\gnss.dir\\lib\\SolverLSQ.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\lib\\SolverLSQ.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/lib/SolverLSQ.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/gnss.dir/lib/SolverLSQ.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -Dgnss_EXPORTS -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\gnss.dir\\lib\\TimeConvert.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\lib\\TimeConvert.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/lib/TimeConvert.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/gnss.dir/lib/TimeConvert.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -Dgnss_EXPORTS -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\gnss.dir\\lib\\TimeStruct.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\lib\\TimeStruct.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/lib/TimeStruct.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/gnss.dir/lib/TimeStruct.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\parse_opt.dir\\examples\\exam-1.1-parse_opt.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-1.1-parse_opt.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-1.1-parse_opt.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/parse_opt.dir/examples/exam-1.1-parse_opt.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\parse_config.dir\\examples\\exam-1.2-parse_config.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-1.2-parse_config.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-1.2-parse_config.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/parse_config.dir/examples/exam-1.2-parse_config.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\eigen.dir\\examples\\exam-2.1-eigen.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-2.1-eigen.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-2.1-eigen.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/eigen.dir/examples/exam-2.1-eigen.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\time_convert.dir\\examples\\exam-2.2-time_convert.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-2.2-time_convert.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-2.2-time_convert.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/time_convert.dir/examples/exam-2.2-time_convert.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\gps2utc.dir\\examples\\exam-2.1-gps2utc.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-2.1-gps2utc.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-2.1-gps2utc.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/gps2utc.dir/examples/exam-2.1-gps2utc.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\bds_weeksecond.dir\\examples\\exam-2.2-bds_weeksecond.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-2.2-bds_weeksecond.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-2.2-bds_weeksecond.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/bds_weeksecond.dir/examples/exam-2.2-bds_weeksecond.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\jd2020.dir\\examples\\exam-2.2-jd2020.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-2.2-jd2020.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-2.2-jd2020.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/jd2020.dir/examples/exam-2.2-jd2020.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\coord_convert1.dir\\examples\\exam-2.3-coord_convert1.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-2.3-coord_convert1.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-2.3-coord_convert1.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/coord_convert1.dir/examples/exam-2.3-coord_convert1.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\coord_convert2.dir\\examples\\exam-2.3-coord_convert2.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-2.3-coord_convert2.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-2.3-coord_convert2.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/coord_convert2.dir/examples/exam-2.3-coord_convert2.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\coord_convert3.dir\\examples\\exam-2.3-coord_convert3.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-2.3-coord_convert3.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-2.3-coord_convert3.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/coord_convert3.dir/examples/exam-2.3-coord_convert3.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\coord_convert4.dir\\examples\\exam-2.3-coord_convert4.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-2.3-coord_convert4.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-2.3-coord_convert4.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/coord_convert4.dir/examples/exam-2.3-coord_convert4.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\coord_convert5.dir\\examples\\exam-2.3-coord_convert5.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-2.3-coord_convert5.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-2.3-coord_convert5.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/coord_convert5.dir/examples/exam-2.3-coord_convert5.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\ecef_local.dir\\examples\\exam-2.3-ecef_local.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-2.3-ecef_local.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-2.3-ecef_local.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/ecef_local.dir/examples/exam-2.3-ecef_local.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\skyplot.dir\\examples\\exam-2.4-skyplot.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-2.4-skyplot.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-2.4-skyplot.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/skyplot.dir/examples/exam-2.4-skyplot.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\satid.dir\\examples\\exam-3.1-satid.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-3.1-satid.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-3.1-satid.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/satid.dir/examples/exam-3.1-satid.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\read_rinex_data.dir\\examples\\exam-3.2-read_rinex_data.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-3.2-read_rinex_data.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-3.2-read_rinex_data.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/read_rinex_data.dir/examples/exam-3.2-read_rinex_data.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\gps_eph.dir\\examples\\exam-4.1-gps_eph.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-4.1-gps_eph.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-4.1-gps_eph.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/gps_eph.dir/examples/exam-4.1-gps_eph.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\bds_eph.dir\\examples\\exam-4.2-bds_eph.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-4.2-bds_eph.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-4.2-bds_eph.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/bds_eph.dir/examples/exam-4.2-bds_eph.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\bds_eph.dir\\examples\\navreadheader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\navreadheader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/navreadheader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/bds_eph.dir/examples/navreadheader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\bds_eph.dir\\examples\\navreader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\navreader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/navreader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/bds_eph.dir/examples/navreader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\brdm_compare.dir\\examples\\exam-4.3-brdm_compare.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-4.3-brdm_compare.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-4.3-brdm_compare.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/brdm_compare.dir/examples/exam-4.3-brdm_compare.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\brdm_compare.dir\\examples\\navreadheader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\navreadheader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/navreadheader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/brdm_compare.dir/examples/navreadheader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\brdm_compare.dir\\examples\\navreader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\navreader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/navreader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/brdm_compare.dir/examples/navreader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\system_bias.dir\\examples\\exam-5.1-system_bias.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-5.1-system_bias.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-5.1-system_bias.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/system_bias.dir/examples/exam-5.1-system_bias.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\gps_tx_time.dir\\examples\\exam-5.2-gps_tx_time.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-5.2-gps_tx_time.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-5.2-gps_tx_time.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/gps_tx_time.dir/examples/exam-5.2-gps_tx_time.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\5.1gps_tx_time_case51.dir\\examples\\exam-5.1-gps_tx_time.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-5.1-gps_tx_time.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-5.1-gps_tx_time.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/5.1gps_tx_time_case51.dir/examples/exam-5.1-gps_tx_time.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\exam-5.5-txtimeTGD.dir\\examples\\exam-5.5-txtimeTGD.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-5.5-txtimeTGD.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-5.5-txtimeTGD.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/exam-5.5-txtimeTGD.dir/examples/exam-5.5-txtimeTGD.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\exam-5.5-txtimeTGD.dir\\examples\\navreadheader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\navreadheader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/navreadheader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/exam-5.5-txtimeTGD.dir/examples/navreadheader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\exam-5.5-txtimeTGD.dir\\examples\\navreader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\navreader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/navreader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/exam-5.5-txtimeTGD.dir/examples/navreader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\exam-5.5-txtimeTGD.dir\\examples\\obsreadheader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\obsreadheader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/obsreadheader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/exam-5.5-txtimeTGD.dir/examples/obsreadheader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\exam-5.5-txtimeTGD.dir\\examples\\obsreader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\obsreader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/obsreader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/exam-5.5-txtimeTGD.dir/examples/obsreader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\exam-5.6-ionosphere.dir\\examples\\exam-5.6-ionosphere.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-5.6-ionosphere.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-5.6-ionosphere.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/exam-5.6-ionosphere.dir/examples/exam-5.6-ionosphere.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\exam-5.6-ionosphere.dir\\examples\\navreadheader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\navreadheader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/navreadheader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/exam-5.6-ionosphere.dir/examples/navreadheader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\exam-5.6-ionosphere.dir\\examples\\navreader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\navreader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/navreader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/exam-5.6-ionosphere.dir/examples/navreader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\exam-5.6-ionosphere.dir\\examples\\obsreadheader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\obsreadheader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/obsreadheader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/exam-5.6-ionosphere.dir/examples/obsreadheader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\exam-5.6-ionosphere.dir\\examples\\obsreader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\obsreader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/obsreader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/exam-5.6-ionosphere.dir/examples/obsreader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\exam-5.7-trop.dir\\examples\\exam-5.7-trop.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-5.7-trop.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-5.7-trop.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/exam-5.7-trop.dir/examples/exam-5.7-trop.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\exam-5.7-trop.dir\\examples\\navreadheader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\navreadheader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/navreadheader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/exam-5.7-trop.dir/examples/navreadheader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\exam-5.7-trop.dir\\examples\\navreader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\navreader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/navreader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/exam-5.7-trop.dir/examples/navreader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\exam-5.7-trop.dir\\examples\\obsreadheader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\obsreadheader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/obsreadheader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/exam-5.7-trop.dir/examples/obsreadheader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\exam-5.7-trop.dir\\examples\\obsreader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\obsreader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/obsreader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/exam-5.7-trop.dir/examples/obsreader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\exam-5.8-tropo_iono_satpos.dir\\examples\\exam-5.8-tropo_iono_satpos.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-5.8-tropo_iono_satpos.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-5.8-tropo_iono_satpos.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/exam-5.8-tropo_iono_satpos.dir/examples/exam-5.8-tropo_iono_satpos.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\exam-5.8-tropo_iono_satpos.dir\\examples\\navreadheader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\navreadheader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/navreadheader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/exam-5.8-tropo_iono_satpos.dir/examples/navreadheader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\exam-5.8-tropo_iono_satpos.dir\\examples\\navreader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\navreader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/navreader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/exam-5.8-tropo_iono_satpos.dir/examples/navreader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\exam-5.8-tropo_iono_satpos.dir\\examples\\obsreadheader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\obsreadheader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/obsreadheader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/exam-5.8-tropo_iono_satpos.dir/examples/obsreadheader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\exam-5.8-tropo_iono_satpos.dir\\examples\\obsreader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\obsreader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/obsreader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/exam-5.8-tropo_iono_satpos.dir/examples/obsreader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\exam-5.3-test.dir\\examples\\exam-5.3-test.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-5.3-test.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-5.3-test.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/exam-5.3-test.dir/examples/exam-5.3-test.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\exam-5.4-mytest.dir\\examples\\exam-5.4-mytest.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-5.4-mytest.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-5.4-mytest.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/exam-5.4-mytest.dir/examples/exam-5.4-mytest.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\exam-5.4-mytest.dir\\examples\\navreadheader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\navreadheader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/navreadheader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/exam-5.4-mytest.dir/examples/navreadheader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\exam-5.4-mytest.dir\\examples\\navreader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\navreader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/navreader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/exam-5.4-mytest.dir/examples/navreader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\exam-5.4-mytest.dir\\examples\\obsreadheader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\obsreadheader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/obsreadheader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/exam-5.4-mytest.dir/examples/obsreadheader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\exam-5.4-mytest.dir\\examples\\obsreader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\obsreader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/obsreader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/exam-5.4-mytest.dir/examples/obsreader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\sppif.dir\\examples\\exam-6.1-sppif.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-6.1-sppif.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-6.1-sppif.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/sppif.dir/examples/exam-6.1-sppif.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\cs_detect_mw.dir\\examples\\exam-7.1-cs_detect_mw.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-7.1-cs_detect_mw.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-7.1-cs_detect_mw.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/cs_detect_mw.dir/examples/exam-7.1-cs_detect_mw.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\lambda.dir\\examples\\exam-8.3-lambda.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-8.3-lambda.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-8.3-lambda.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/lambda.dir/examples/exam-8.3-lambda.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\rtk_lsq.dir\\examples\\exam-8.4-rtk_lsq.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-8.4-rtk_lsq.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-8.4-rtk_lsq.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/rtk_lsq.dir/examples/exam-8.4-rtk_lsq.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\rtk_kal.dir\\examples\\exam-8.5-rtk_kal.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\exam-8.5-rtk_kal.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/exam-8.5-rtk_kal.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/rtk_kal.dir/examples/exam-8.5-rtk_kal.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\obs_and_nav_test.dir\\examples\\obsreadheader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\obsreadheader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/obsreadheader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/obs_and_nav_test.dir/examples/obsreadheader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\obs_and_nav_test.dir\\examples\\obsreader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\obsreader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/obsreader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/obs_and_nav_test.dir/examples/obsreader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\obs_and_nav_test.dir\\examples\\navreadheader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\navreadheader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/navreadheader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/obs_and_nav_test.dir/examples/navreadheader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\obs_and_nav_test.dir\\examples\\navreader.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\navreader.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/navreader.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/obs_and_nav_test.dir/examples/navreader.cpp.obj"
+},
+{
+  "directory": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/GNSSLAB/gnssLab-2.4/thirdparty/eigen-3.4.0 -ID:/GNSSLAB/gnssLab-2.4/lib -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\obs_and_nav_test.dir\\examples\\obs_and_nav_test.cpp.obj -c D:\\GNSSLAB\\gnssLab-2.4\\examples\\obs_and_nav_test.cpp",
+  "file": "D:/GNSSLAB/gnssLab-2.4/examples/obs_and_nav_test.cpp",
+  "output": "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug/CMakeFiles/obs_and_nav_test.dir/examples/obs_and_nav_test.cpp.obj"
+}
+]

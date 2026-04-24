@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cmake .)",
+      "Bash(make)",
+      "Bash(ninja exam-5.7-trop)",
+      "Bash(make exam-5.7-trop)",
+      "Bash(mingw32-make exam-5.7-trop)"
+    ]
+  }
+}

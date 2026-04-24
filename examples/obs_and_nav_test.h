@@ -1,0 +1,13 @@
+//
+// Created by 1 on 2026/3/20.
+//
+
+#ifndef BRDC00IGS_R_20250010000_01D_MN_RNX_OBS_AND_NAV_TEST_H
+#define BRDC00IGS_R_20250010000_01D_MN_RNX_OBS_AND_NAV_TEST_H
+
+
+class obs_and_nav_test {
+};
+
+
+#endif //BRDC00IGS_R_20250010000_01D_MN_RNX_OBS_AND_NAV_TEST_H

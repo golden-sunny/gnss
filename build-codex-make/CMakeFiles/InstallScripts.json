@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/GNSSLAB/gnssLab-2.4/build-codex-make/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

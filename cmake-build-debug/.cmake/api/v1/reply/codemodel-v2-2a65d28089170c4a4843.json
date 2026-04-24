@@ -1,0 +1,366 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "gnssLab",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "5.1gps_tx_time_case51::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5.1gps_tx_time_case51-Debug-4d570a4bad905f31d49e.json",
+					"name" : "5.1gps_tx_time_case51",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bds_eph::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bds_eph-Debug-2edeb54db1462be7556f.json",
+					"name" : "bds_eph",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bds_weeksecond::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bds_weeksecond-Debug-ec0d1f8f64b6c42ff346.json",
+					"name" : "bds_weeksecond",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "brdm_compare::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-brdm_compare-Debug-65b9b22245331188a77a.json",
+					"name" : "brdm_compare",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "coord_convert1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-coord_convert1-Debug-d9cfadc8542c169654c6.json",
+					"name" : "coord_convert1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "coord_convert2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-coord_convert2-Debug-fa05024e9e75acf0c153.json",
+					"name" : "coord_convert2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "coord_convert3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-coord_convert3-Debug-64f1b14837b3ac43c6bd.json",
+					"name" : "coord_convert3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "coord_convert4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-coord_convert4-Debug-dfd82c1b67668258011d.json",
+					"name" : "coord_convert4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "coord_convert5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-coord_convert5-Debug-b71628eb5bf284edde9f.json",
+					"name" : "coord_convert5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cs_detect_mw::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cs_detect_mw-Debug-075591c92c4e996e75bb.json",
+					"name" : "cs_detect_mw",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ecef_local::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ecef_local-Debug-a9df6c9715c37592b3b9.json",
+					"name" : "ecef_local",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "eigen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eigen-Debug-d1d5108b8b9637ee4cc7.json",
+					"name" : "eigen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exam-5.3-test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exam-5.3-test-Debug-6f4f1f6266ce2235f130.json",
+					"name" : "exam-5.3-test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exam-5.4-mytest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exam-5.4-mytest-Debug-26d2e42bc197442f4185.json",
+					"name" : "exam-5.4-mytest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exam-5.5-txtimeTGD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exam-5.5-txtimeTGD-Debug-b768c2cc3e2d08bc36ee.json",
+					"name" : "exam-5.5-txtimeTGD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exam-5.6-ionosphere::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exam-5.6-ionosphere-Debug-8d9af22f65a7069c539e.json",
+					"name" : "exam-5.6-ionosphere",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exam-5.7-trop::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exam-5.7-trop-Debug-34966b47ba1cc14553db.json",
+					"name" : "exam-5.7-trop",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exam-5.8-tropo_iono_satpos::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exam-5.8-tropo_iono_satpos-Debug-eccfd59157d63408c3ac.json",
+					"name" : "exam-5.8-tropo_iono_satpos",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gnss::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gnss-Debug-f94fe003d57eea134767.json",
+					"name" : "gnss",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gps2utc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gps2utc-Debug-544b5271b1edf39328ba.json",
+					"name" : "gps2utc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gps_eph::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gps_eph-Debug-d6b3e1d3b053c7e7091d.json",
+					"name" : "gps_eph",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gps_tx_time::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gps_tx_time-Debug-8695b91f4f630b6161ae.json",
+					"name" : "gps_tx_time",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "jd2020::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-jd2020-Debug-a40979a66b49886fd08c.json",
+					"name" : "jd2020",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lambda::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lambda-Debug-4effb3b9f0d431d5376f.json",
+					"name" : "lambda",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "obs_and_nav_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-obs_and_nav_test-Debug-c32571cc64213d6ed3d6.json",
+					"name" : "obs_and_nav_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "parse_config::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-parse_config-Debug-db20215c5415a844a0e0.json",
+					"name" : "parse_config",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "parse_opt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-parse_opt-Debug-b86d790d6e30b07a499f.json",
+					"name" : "parse_opt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "read_rinex_data::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-read_rinex_data-Debug-0286c5e38f0369c985c7.json",
+					"name" : "read_rinex_data",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rtk_kal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rtk_kal-Debug-d9fd44b8b90d21005dd4.json",
+					"name" : "rtk_kal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rtk_lsq::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rtk_lsq-Debug-81adf641dc39000d14a3.json",
+					"name" : "rtk_lsq",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "satid::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-satid-Debug-a04d5d0bb22355b871aa.json",
+					"name" : "satid",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "skyplot::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-skyplot-Debug-6948a39e8f3cb908002f.json",
+					"name" : "skyplot",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sppif::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sppif-Debug-eb9f63098c4d193dd9dd.json",
+					"name" : "sppif",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "system_bias::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-system_bias-Debug-1ee884dee54448608d8e.json",
+					"name" : "system_bias",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "time_convert::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-time_convert-Debug-2ad054217132af4f0fbb.json",
+					"name" : "time_convert",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/GNSSLAB/gnssLab-2.4/cmake-build-debug",
+		"source" : "D:/GNSSLAB/gnssLab-2.4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

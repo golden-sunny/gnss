@@ -1,0 +1,60 @@
+Navigation file : data/BRDC00IGS_R_20250010000_01D_MN.rnx
+SP3 file        : data/WUM0MGXFIN_20250010000_01D_05M_ORB.SP3
+Output dir      : D:\GNSSLAB\gnssLab-2.4\result\nav_sp3_compare
+SP3 satellites  : 119
+GPS satellites with both nav and SP3 data: 30
+BDS satellites with both nav and SP3 data: 41
+
+Daily CSV written to: D:\GNSSLAB\gnssLab-2.4\result\nav_sp3_compare\brdm_compare_20250101_30s_satellite_diff.csv
+SVG figures written to:
+  D:\GNSSLAB\gnssLab-2.4\result\nav_sp3_compare\brdm_compare_20250101_30s_gps_pos_diff.svg
+  D:\GNSSLAB\gnssLab-2.4\result\nav_sp3_compare\brdm_compare_20250101_30s_gps_vel_diff.svg
+  D:\GNSSLAB\gnssLab-2.4\result\nav_sp3_compare\brdm_compare_20250101_30s_bds_pos_diff.svg
+  D:\GNSSLAB\gnssLab-2.4\result\nav_sp3_compare\brdm_compare_20250101_30s_bds_vel_diff.svg
+PNG figures written to:
+  D:\GNSSLAB\gnssLab-2.4\result\nav_sp3_compare\brdm_compare_20250101_30s_gps_pos_diff.png
+  D:\GNSSLAB\gnssLab-2.4\result\nav_sp3_compare\brdm_compare_20250101_30s_gps_vel_diff.png
+  D:\GNSSLAB\gnssLab-2.4\result\nav_sp3_compare\brdm_compare_20250101_30s_bds_pos_diff.png
+  D:\GNSSLAB\gnssLab-2.4\result\nav_sp3_compare\brdm_compare_20250101_30s_bds_vel_diff.png
+
+Coverage summary:
+  GPS valid samples  : 86400, missing: 0
+  BDS valid samples  : 118080, missing: 0
+
+[BDS GEO]
+Position samples: 14400
+  mean position bias: (-2.9338, -5.0938, 2.0125) m
+  variance: (18.0292, 9.7669, 0.2988) m^2
+  mean norm: 8.0291
+  variance norm: 2.2328
+Velocity samples: 14400
+  mean velocity bias: (0.000008461761, 0.000011650883, 0.000006923515) m/s
+  variance: (0.000000010739, 0.000000011229, 0.000000018723) (m/s)^2
+  mean norm: 1.084283812939e-04
+  variance norm: 2.918923243666e-08
+
+[BDS IGSO/MEO]
+Position samples: 103680
+  mean position bias: (0.0058, -0.3573, 0.0274) m
+  variance: (0.5277, 0.8619, 0.5372) m^2
+  mean norm: 1.3774
+  variance norm: 0.1581
+Velocity samples: 103680
+  mean velocity bias: (-0.000000443058, 0.000001216548, 0.000001804232) m/s
+  variance: (0.000000016128, 0.000000013862, 0.000000015670) (m/s)^2
+  mean norm: 1.273241547113e-04
+  variance norm: 2.945261157960e-08
+
+[BDS GEO vs IGSO/MEO comparison]
+Position mean norm GEO        : 8.029071
+Position mean norm IGSO/MEO   : 1.377413
+Position variance norm GEO    : 2.232774
+Position variance norm IGSO/MEO: 0.158084
+Velocity mean norm GEO        : 1.084283812939e-04
+Velocity mean norm IGSO/MEO   : 1.273241547113e-04
+Velocity variance norm GEO    : 2.918923243666e-08
+Velocity variance norm IGSO/MEO: 2.945261157960e-08
+Interpretation: compare the component-wise means and variances above. GEO satellites are expected to differ from IGSO/MEO mainly because of the GEO-specific rotation treatment in the BDS broadcast model.
+
+GPS satellites plotted individually: 30
+BDS satellites plotted individually: 41
